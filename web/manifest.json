@@ -1,6 +1,6 @@
 {
-    "name": "gridview_animation",
-    "short_name": "gridview_animation",
+    "name": "simple_gridview",
+    "short_name": "simple_gridview",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

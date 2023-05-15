@@ -1,4 +1,4 @@
-# gridview_animation
+# simple_gridview
 
 A new Flutter project.
 
