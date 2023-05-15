@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gridview_animation/dashboard.dart';
+import 'package:simple_gridview/dashboard.dart';
 
 void main() {
   runApp(const MyApp());
